@@ -22,7 +22,7 @@ namespace MyNamespace
 
 **Command Line**
 ```
-./scripthost --script "Path/To/Script.cs" --type "MyNamespace.MyClass" --method "MyStaticMethod"
+./scripthost --script "Script.cs" --type "MyNamespace.MyClass" --method "MyStaticMethod"
 
 # Prints "Hello World!"
 ```
